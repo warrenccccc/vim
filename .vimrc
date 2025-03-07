@@ -97,8 +97,8 @@ Plug 'tpope/vim-surround'
 Plug 'brooth/far.vim'
 
 "自动补全"
-"使用coc的发布分支"                                                                                                                  
-"从源代码构建"                                                                                                                           
+"使用coc的发布分支"                                        
+"从源代码构建"                                                                        
 Plug 'neoclide/coc.nvim', {'branch': 'release'}                                                                                               
 Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'npm ci'}      
 
